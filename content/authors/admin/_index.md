@@ -48,6 +48,7 @@ profiles:
 
 interests:
   - Data Science
+  - Web Scapping
   - Artificial Intelligence
   - Multimodality
   - Deep Learning
@@ -122,12 +123,10 @@ skills:
 
 languages:
   - name: English
+    percent: 80
+  - name: Arabic
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
+  
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -162,4 +161,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mazen A. Ebrahim is a senior Computer Science student and researcher specializing in Human Activity Recognition and artificial intelligence. His work focuses on driver behavior analysis, and machine learning. He has published research in IEEE and developed models for action classification using skeleton keypoints. With experience in AI development, Web Scrapping, and chatbot development, he integrates technical expertise with problem-solving skills. He has also contributed to university organizations, leading events and fostering collaboration.
